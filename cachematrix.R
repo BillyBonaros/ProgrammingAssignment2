@@ -41,7 +41,6 @@ cacheSolve <- function(x, ...) {
 
 
 ## Test Run:
-## x=rbind(c(1,15),c(15,1))
 ## > x=rbind(c(1,15),c(15,1))
  
 ## > m = makeCacheMatrix(x)
